@@ -1,0 +1,6 @@
+.HelloWorld.vs/
+node_modules/ 
+coverage/  
+.DS_Store 
+.env  
+.env.*  
